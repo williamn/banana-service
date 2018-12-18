@@ -1,4 +1,4 @@
-namespace: mu-30
+namespace: mu-56
 environments:
 - name: acceptance
 - name: production
