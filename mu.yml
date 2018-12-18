@@ -3,7 +3,7 @@ environments:
 - name: acceptance
 - name: production
 service:
-  name: banana-service
+  name: bs
   port: 8080
   pathPatterns:
   - /bananas
